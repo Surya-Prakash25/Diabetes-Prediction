@@ -16,7 +16,7 @@ Diabetes is a chronic condition affecting millions of people worldwide. Early de
 
 The dataset used for this project contains various health metrics, including glucose levels, blood pressure, and insulin levels. We use these features to build a predictive model that helps identify individuals who are likely to develop diabetes.
 
-<h2>Dataset<h2>
+<h2>Dataset</h2>
 The dataset is sourced from the Pima Indians Diabetes Database. It contains 768 instances with the following features:
 <ol>
 <li>Pregnancies: Number of times pregnant</li>
@@ -45,11 +45,11 @@ The dataset is sourced from the Pima Indians Diabetes Database. It contains 768 
 
 <h2>Installation</h2>
 Clone this repository:<br>
-  git clone https://github.com/Surya-Prakash25/Diabetes-Prediction.git <br>
+ $ git clone https://github.com/Surya-Prakash25/Diabetes-Prediction.git <br>
 Navigate to the project directory:<br>
- cd Diabetes-Prediction <br>
+$ cd Diabetes-Prediction <br>
 Install the required dependencies:<br>
- pip install -r requirements.txt <br>
+$ pip install -r requirements.txt <br>
 
 
 <h2>Usage</h2>
