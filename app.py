@@ -6,8 +6,7 @@ import joblib
 
 
 
-model = joblib.load("E:/ML Project/diabetes_prediction/log_model.pkl")
-
+model = joblib.load("./log_model.pkl")
 
 
 # App title
